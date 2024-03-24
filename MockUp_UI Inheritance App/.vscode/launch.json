@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (lib/page/user_profile/user_profile_view_model.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/page/user_profile/user_profile_view_model.dart"
+    },
+    {
+      "name": "Flutter (lib/page/user_profile/user_profile_model.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/page/user_profile/user_profile_model.dart"
+    },
+    {
+      "name": "Flutter (lib/page/registers/user_profile_view.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/page/registers/user_profile_view.dart"
+    },
+    {
+      "name": "Flutter (lib/page/public/public_view_model.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/page/public/public_view_model.dart"
+    },
+    {
+      "name": "Flutter (lib/page/public/public_view_model.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/page/public/public_view_model.dart"
+    },
+    {
+      "name": "Flutter (lib/page/relative_registration/relative_regis.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/page/relative_registration/relative_regis.dart"
+    }
+  ]
+}

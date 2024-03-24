@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": [
+    "lib/core/api"
+  ],
+  "cmake.sourceDirectory": "/home/sreyleak/Documents/KIT Project/inheritance_app/linux"
+}
